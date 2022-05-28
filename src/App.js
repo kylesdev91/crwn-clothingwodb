@@ -24,8 +24,8 @@ const App = () => {
 
   return (
     <div className='categories-container'>
-      {categories.map(({ title }) => (
-        <div className='category-container'>
+      {categories.map(({ title, id }) => (
+        <div key={id} className='category-container'>
           <div className='background-image' />
           {/* <img /> */}
           <div className='category-body-container'>
