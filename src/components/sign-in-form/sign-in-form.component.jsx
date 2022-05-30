@@ -20,8 +20,6 @@ const SignInForm = () => {
   const [formFields, setFormFields] = useState(defaultFormFields);
   const { email, password } = formFields;
 
-  console.log(formFields);
-
   const resetFormFields = () => {
     setFormFields(defaultFormFields);
   };
@@ -52,11 +50,6 @@ const SignInForm = () => {
         default:
           console.log(error);
       }
-
-      // if (error.code === 'auth/wrong-password') {
-      //   alert('incorrect password for email');
-      // } else if(auth/user-not-found)
-      console.log(error);
     }
   };
 
