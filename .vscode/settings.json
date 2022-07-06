@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/667c9945-dce0-4eb2-b52d-b266c5141864/microsoft.web/sites/subscriptions/667c9945-dce0-4eb2-b52d-b266c5141864/resourceGroups/kaiFamilyFarmRG/providers/Microsoft.Web/sites/kaifamilyfarm",
+  "appService.deploySubpath": "."
+}
