@@ -1,56 +1,92 @@
 [
   {
     "id": 1,
-    "name": "Brown Brim",
-    "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
-    "price": 25
-  },
-  {
-    "id": 2,
-    "name": "Blue Beanie",
-    "imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
-    "price": 18
-  },
-  {
-    "id": 3,
-    "name": "Brown Cowboy",
-    "imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+    "name": "White Widows",
+    "imageUrl": "https://www.worldofseeds.com/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/o/r/original_auto_white_widow_3_4.jpg",
     "price": 35
   },
   {
-    "id": 4,
-    "name": "Grey Brim",
-    "imageUrl": "https://i.ibb.co/RjBLWxB/grey-brim.png",
+    "id": 2,
+    "name": "Gorilla Glue",
+    "imageUrl": "https://images.leafly.com/flower-images/gg-4.jpg",
     "price": 25
   },
   {
-    "id": 5,
-    "name": "Green Beanie",
-    "imageUrl": "https://i.ibb.co/YTjW3vF/green-beanie.png",
+    "id": 3,
+    "name": "Chaquita Bannana",
+    "imageUrl": "https://leafly-public.imgix.net/strains/reviews/photos/chiquita-banana__primary_3504.jpg",
     "price": 18
+  },
+  {
+    "id": 4,
+    "name": "Ice Cream Cake",
+    "imageUrl": "https://images.leafly.com/flower-images/defaults/purple/strain-19.png",
+    "price": 14
+  },
+  {
+    "id": 5,
+    "name": "Purple Punch",
+    "imageUrl": "https://flavorfix.com/wp-content/uploads/2022/03/Purple-Punch-Strain.jpg",
+    "price": 16
   },
   {
     "id": 6,
-    "name": "Palm Tree Cap",
-    "imageUrl": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
-    "price": 14
+    "name": "Zkittlez",
+    "imageUrl": "https://leafly-public.imgix.net/strains/photos/HIhdYnYSQICmDZpoCnO1_Zkittlez.png",
+    "price": 220
   },
   {
     "id": 7,
-    "name": "Red Beanie",
-    "imageUrl": "https://i.ibb.co/bLB646Z/red-beanie.png",
-    "price": 18
+    "name": "Durban Poison",
+    "imageUrl": "https://images.leafly.com/flower-images/durban-poison.jpg",
+    "price": 25
   },
   {
     "id": 8,
-    "name": "Wolf Cap",
-    "imageUrl": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
-    "price": 14
+    "name": "Super Silver Haze",
+    "imageUrl": "https://images.leafly.com/flower-images/super-silver-haze.png",
+    "price": 18
   },
   {
     "id": 9,
-    "name": "Blue Snapback",
-    "imageUrl": "https://i.ibb.co/X2VJP2W/blue-snapback.png",
-    "price": 16
+    "name": "Green Crack",
+    "imageUrl": "https://images.weedmaps.com/strains/000/000/101/avatar/original/1560552818-171222_Bonsai-Cultivation_Green-Crack_1.jpg",
+    "price": 18
+  },
+  {
+    "id": 10,
+    "name": "Kind Bud",
+    "imageUrl": "https://leafly-cms-production.imgix.net/wp-content/uploads/2017/06/28171305/maui-wowie-strains.jpg",
+    "price": 280
+  },
+  {
+    "id": 11,
+    "name": "Shake Weed",
+    "imageUrl": "https://www.leafbuyer.com/blogs/content/uploads/2018p/11/pile-of-marijuana-shake-700px.jpg",
+    "price": 110
+  },
+  {
+    "id": 12,
+    "name": "The Chronic",
+    "imageUrl": "https://carolinescannabis.com/wp-content/uploads/2021/02/chronic.jpg",
+    "price": 160
+  },
+  {
+    "id": 13,
+    "name": "Fire OG",
+    "imageUrl": "https://i1.wp.com/www.orangecountyweeddelivery.com/wp-content/uploads/2020/05/20200606_152138.jpg?fit=1078%2C1074&ssl=1",
+    "price": 160
+  },
+  {
+    "id": 14,
+    "name": "Medical Marijuana",
+    "imageUrl": "https://buddocs.org/wp-content/uploads/small-buds.jpg",
+    "price": 190
+  },
+  {
+    "id": 15,
+    "name": "Super Sour Diesel",
+    "imageUrl": "https://goddessdelivers.com/pub/media/catalog/product/cache/4dcdbe1c656cc44e9d78b7ae4cec57ab/1/4/14g_-_super_sour_diesel_smalls_sativa_strain_-_budbud_2.jpg",
+    "price": 200
   }
 ]

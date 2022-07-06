@@ -19,22 +19,19 @@ const Navigation = () => {
   return (
     <Fragment>
       <div className='navigation'>
-        <Link className='logo-container' to='/'>
-          <CrwnLogo className='logo' />
-        </Link>
+        {currentUser ? (
+          <span className='nav-link' onClick={signOutUser}>
+            SIGN OUT
+          </span>
+        ) : (
+          <Link className='nav-link' to='/'>
+            <h2> Kai Family Farm</h2>
+          </Link>
+        )}
         <div className='nav-links-container'>
           <Link className='nav-link' to='/shop'>
-            SHOP
+            <h2>BEGIN SHOPPING</h2>
           </Link>
-          {currentUser ? (
-            <span className='nav-link' onClick={signOutUser}>
-              SIGN OUT
-            </span>
-          ) : (
-            <Link className='nav-link' to='/auth'>
-              SIGN IN
-            </Link>
-          )}
           <CartIcon />
         </div>
         {isCartOpen && <CartDropdown />}
