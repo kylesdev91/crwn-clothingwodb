@@ -25,13 +25,11 @@ const Navigation = () => {
           </span>
         ) : (
           <Link className='nav-link' to='/'>
-            <h2> Kai Family Farm</h2>
+            <h1> Kai Family Farm</h1>
           </Link>
         )}
         <div className='nav-links-container'>
-          <Link className='nav-link' to='/shop'>
-            <h2>BEGIN SHOPPING</h2>
-          </Link>
+          <Link className='nav-link' to='/shop'></Link>
           <CartIcon />
         </div>
         {isCartOpen && <CartDropdown />}

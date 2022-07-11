@@ -1,92 +1,38 @@
 [
   {
     "id": 1,
-    "name": "White Widows",
-    "imageUrl": "https://www.worldofseeds.com/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/o/r/original_auto_white_widow_3_4.jpg",
+    "name": "Gg4",
+    "imageUrl": "https://theory-wellness-media-bucket.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/04/11162547/Theory-wellness-Flower-GG4-500x500.png",
     "price": 35
   },
   {
     "id": 2,
-    "name": "Gorilla Glue",
-    "imageUrl": "https://images.leafly.com/flower-images/gg-4.jpg",
+    "name": "Wedding Cake",
+    "imageUrl": "https://leafly-public.imgix.net/strains/photos/m2y50HYRBu0dHY4JSdSx_wedding-cake_jman.jpg",
     "price": 25
   },
   {
     "id": 3,
-    "name": "Chaquita Bannana",
-    "imageUrl": "https://leafly-public.imgix.net/strains/reviews/photos/chiquita-banana__primary_3504.jpg",
+    "name": "Gelato 33",
+    "imageUrl": "https://images.weedmaps.com/photos/products/000/239/056/original/285120_Terry_T_x_Gelato_33_square_grey.jpg?fit=fill&fill=solid&fill-color=ffffff&h=640&w=640&auto=format",
     "price": 18
   },
   {
     "id": 4,
-    "name": "Ice Cream Cake",
-    "imageUrl": "https://images.leafly.com/flower-images/defaults/purple/strain-19.png",
+    "name": "Black Runtz",
+    "imageUrl": "https://cannawayz.com/static/2021/0005/0025/938dedea-5bb9-40e6-a6fa-83d0b51c66b1/9634692a-3c82-43fa-a626-4b47e008f4d8/636f90a6-658d-4830-ba68-ae5dafeb031b.jpg.c800q75.jpg",
     "price": 14
   },
   {
     "id": 5,
-    "name": "Purple Punch",
-    "imageUrl": "https://flavorfix.com/wp-content/uploads/2022/03/Purple-Punch-Strain.jpg",
+    "name": "White Runtz",
+    "imageUrl": "https://highyields.com/wp-content/uploads/2022/03/wr.jpg",
     "price": 16
   },
   {
     "id": 6,
-    "name": "Zkittlez",
-    "imageUrl": "https://leafly-public.imgix.net/strains/photos/HIhdYnYSQICmDZpoCnO1_Zkittlez.png",
-    "price": 220
-  },
-  {
-    "id": 7,
-    "name": "Durban Poison",
-    "imageUrl": "https://images.leafly.com/flower-images/durban-poison.jpg",
-    "price": 25
-  },
-  {
-    "id": 8,
-    "name": "Super Silver Haze",
-    "imageUrl": "https://images.leafly.com/flower-images/super-silver-haze.png",
-    "price": 18
-  },
-  {
-    "id": 9,
-    "name": "Green Crack",
-    "imageUrl": "https://images.weedmaps.com/strains/000/000/101/avatar/original/1560552818-171222_Bonsai-Cultivation_Green-Crack_1.jpg",
-    "price": 18
-  },
-  {
-    "id": 10,
-    "name": "Kind Bud",
-    "imageUrl": "https://leafly-cms-production.imgix.net/wp-content/uploads/2017/06/28171305/maui-wowie-strains.jpg",
-    "price": 280
-  },
-  {
-    "id": 11,
-    "name": "Shake Weed",
-    "imageUrl": "https://www.leafbuyer.com/blogs/content/uploads/2018p/11/pile-of-marijuana-shake-700px.jpg",
-    "price": 110
-  },
-  {
-    "id": 12,
-    "name": "The Chronic",
-    "imageUrl": "https://carolinescannabis.com/wp-content/uploads/2021/02/chronic.jpg",
-    "price": 160
-  },
-  {
-    "id": 13,
-    "name": "Fire OG",
-    "imageUrl": "https://i1.wp.com/www.orangecountyweeddelivery.com/wp-content/uploads/2020/05/20200606_152138.jpg?fit=1078%2C1074&ssl=1",
-    "price": 160
-  },
-  {
-    "id": 14,
-    "name": "Medical Marijuana",
-    "imageUrl": "https://buddocs.org/wp-content/uploads/small-buds.jpg",
-    "price": 190
-  },
-  {
-    "id": 15,
-    "name": "Super Sour Diesel",
-    "imageUrl": "https://goddessdelivers.com/pub/media/catalog/product/cache/4dcdbe1c656cc44e9d78b7ae4cec57ab/1/4/14g_-_super_sour_diesel_smalls_sativa_strain_-_budbud_2.jpg",
-    "price": 200
+    "name": "Sour Diesel",
+    "imageUrl": "https://storage.googleapis.com/luvbrite-images/static/imgs/products/Super-Sour-Diesel.jpg",
+    "price": 16
   }
 ]
