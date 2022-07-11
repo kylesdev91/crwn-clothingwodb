@@ -19,16 +19,10 @@ const Navigation = () => {
   return (
     <Fragment>
       <div className='navigation'>
-        <img src='logo.ico'></img>
-        {currentUser ? (
-          <span className='nav-link' onClick={signOutUser}>
-            SIGN OUT
-          </span>
-        ) : (
-          <Link className='nav-link' to='/'>
-            <h1>Kai Family Farm</h1>
-          </Link>
-        )}
+        <img src='favicon.ico'></img>
+        <Link className='nav-link' to='/'>
+          <h1>Kai Family Farm</h1>
+        </Link>
         <div className='nav-links-container'>
           <Link className='nav-link' to='/shop'></Link>
           <CartIcon />
